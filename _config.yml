@@ -1,0 +1,4 @@
+# Site name shown in page titles ("Run2 privacy policy | Run2"); without it GitHub uses the account name.
+title: Run2
+exclude:
+  - README.md
