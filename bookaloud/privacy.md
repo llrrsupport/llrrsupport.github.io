@@ -5,11 +5,12 @@ permalink: /bookaloud/privacy/
 
 # BookAloud privacy policy
 
-Effective 11 November 2026.
+Effective 12 November 2026.
 
 BookAloud reads printed books aloud: you photograph the pages, and the app recognizes the text
-and reads it with an Apple voice. It is made by one person, has no servers, does not connect to
-the internet, and does not collect any information about you.
+and reads it with an Apple voice. It is made by one person, has no servers, and does not collect
+any information about you. The only time it goes online is to talk to Apple's App Store when you
+buy or restore the Unlimited Books purchase.
 
 ## What stays on your device
 
@@ -40,6 +41,14 @@ If you choose Share Book, BookAloud puts that book's photos and text into one fi
 Apple's share sheet. The file goes only where you send it, for example by AirDrop to another
 device. Once sent, it is handled by the method you chose (AirDrop, Messages, Mail, Files and so
 on). BookAloud never shares anything on its own.
+
+## Purchases
+
+Your first 3 books are free. Unlimited Books is a one-time purchase made through Apple's App
+Store. Apple handles the payment under its own privacy policy
+(https://www.apple.com/legal/privacy/); BookAloud never sees your payment details or Apple
+Account. The app only asks Apple, on your device, whether the purchase has been made, and
+remembers the answer on your device.
 
 ## Deleting your data
 

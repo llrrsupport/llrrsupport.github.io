@@ -24,4 +24,10 @@ library and choose Add Pages.
 **Opening a book someone shared with me.** A book sent by AirDrop lands in the Files app
 (Downloads). Tap it there to open it in BookAloud, or use the Import button in BookAloud's library.
 
+**Unlimited Books and restoring a purchase.** Your first 3 books are free; after that,
+Unlimited Books is a one-time purchase (no subscription). With Family Sharing turned on, everyone
+in your family gets it. On a new device, or if the app ever asks you to buy again, open Settings
+in BookAloud (gear icon) and tap Restore Purchase, signed in with the Apple Account that bought it.
+For refunds, use Apple's [Report a Problem](https://reportaproblem.apple.com) page.
+
 Privacy policy: [read it here](/bookaloud/privacy/)
