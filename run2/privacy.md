@@ -5,7 +5,7 @@ permalink: /run2/privacy/
 
 # Run2 privacy policy
 
-Effective 31 October 2026.
+Effective 12 November 2026.
 
 Run2 turns the runs and rides you already record into a journey across a map. It is made by
 one person, has no servers, and does not collect any information about you.
@@ -36,6 +36,20 @@ places and road routes. Apple handles this under its own privacy policy
 If you tap the button to start from where you are, Run2 asks for your location once, to the
 nearest kilometre, and uses it only as the start of the journey: it is sent to Apple once to
 look up the place's name, then stored with the journey on your phone. Run2 does not track you.
+
+## Your marker photo
+
+If you choose a photo for your map marker, you pick it in Apple's photo picker, which gives
+Run2 only the photo you choose, not your library. Run2 crops it to a small circle and keeps
+that copy on your phone. The photo is never sent anywhere. Removing the photo, or deleting
+the app, deletes it.
+
+## Purchases
+
+The full version is a one-time in-app purchase handled by Apple. Run2 never sees your payment
+details or who you are; it only asks Apple, on your phone, whether the purchase has been made
+with your Apple Account, so it can unlock the features. Apple handles purchases under its own
+privacy policy.
 
 ## Notifications
 
